@@ -1,10 +1,10 @@
 # Hangman-game
 
-This project is part of the internship program at #CodeAlpha.
+This project is part of the internship program at CodeAlpha.
 
 Task Domain: Python
 
-Organization: #CodeAlpha
+Organization: CodeAlpha
 
 Task: Create a simple text-based Hangman game where the player guesses a word one letter at a time.
 
